@@ -1,0 +1,17 @@
+D:\KKU วิชาเรียน\IN401105\Lab01OOP\Lab01OOP\bin\Debug\net6.0-windows\Lab01OOP.exe
+D:\KKU วิชาเรียน\IN401105\Lab01OOP\Lab01OOP\bin\Debug\net6.0-windows\Lab01OOP.deps.json
+D:\KKU วิชาเรียน\IN401105\Lab01OOP\Lab01OOP\bin\Debug\net6.0-windows\Lab01OOP.runtimeconfig.json
+D:\KKU วิชาเรียน\IN401105\Lab01OOP\Lab01OOP\bin\Debug\net6.0-windows\Lab01OOP.dll
+D:\KKU วิชาเรียน\IN401105\Lab01OOP\Lab01OOP\bin\Debug\net6.0-windows\Lab01OOP.pdb
+D:\KKU วิชาเรียน\IN401105\Lab01OOP\Lab01OOP\obj\Debug\net6.0-windows\Lab01OOP.csproj.AssemblyReference.cache
+D:\KKU วิชาเรียน\IN401105\Lab01OOP\Lab01OOP\obj\Debug\net6.0-windows\Lab01OOP.Form1.resources
+D:\KKU วิชาเรียน\IN401105\Lab01OOP\Lab01OOP\obj\Debug\net6.0-windows\Lab01OOP.csproj.GenerateResource.cache
+D:\KKU วิชาเรียน\IN401105\Lab01OOP\Lab01OOP\obj\Debug\net6.0-windows\Lab01OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\KKU วิชาเรียน\IN401105\Lab01OOP\Lab01OOP\obj\Debug\net6.0-windows\Lab01OOP.AssemblyInfoInputs.cache
+D:\KKU วิชาเรียน\IN401105\Lab01OOP\Lab01OOP\obj\Debug\net6.0-windows\Lab01OOP.AssemblyInfo.cs
+D:\KKU วิชาเรียน\IN401105\Lab01OOP\Lab01OOP\obj\Debug\net6.0-windows\Lab01OOP.csproj.CoreCompileInputs.cache
+D:\KKU วิชาเรียน\IN401105\Lab01OOP\Lab01OOP\obj\Debug\net6.0-windows\Lab01OOP.dll
+D:\KKU วิชาเรียน\IN401105\Lab01OOP\Lab01OOP\obj\Debug\net6.0-windows\refint\Lab01OOP.dll
+D:\KKU วิชาเรียน\IN401105\Lab01OOP\Lab01OOP\obj\Debug\net6.0-windows\Lab01OOP.pdb
+D:\KKU วิชาเรียน\IN401105\Lab01OOP\Lab01OOP\obj\Debug\net6.0-windows\Lab01OOP.genruntimeconfig.cache
+D:\KKU วิชาเรียน\IN401105\Lab01OOP\Lab01OOP\obj\Debug\net6.0-windows\ref\Lab01OOP.dll
